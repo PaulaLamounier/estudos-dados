@@ -1,0 +1,801 @@
+id_avaliacao,id_colaborador,ciclo,competencia,nota,avaliador
+1,1112,2024,Comunicação,4.1,Gestor RH
+2,1000,2023,Entrega de resultados,4.1,Gestor TI
+3,1009,2024,Comunicação,5.0,Gestor TI
+4,1109,2024,Liderança,4.5,Gerente Operações
+5,1112,2023,Entrega de resultados,3.2,Gestor RH
+6,1049,2024,Organização,4.6,Gerente Operações
+7,1011,2024,Trabalho em equipe,3.3,Gestor RH
+8,1088,2024,Comunicação,3.9,Gestor Financeiro
+9,1111,2024,Liderança,3.4,Gestor RH
+10,1077,2023,Organização,4.4,Gestor RH
+11,1120,2024,Trabalho em equipe,4.8,Gestor Financeiro
+12,1022,2024,Organização,3.6,Gestor RH
+13,1133,2023,Trabalho em equipe,3.2,Gerente Operações
+14,1024,2024,Entrega de resultados,3.6,Gestor TI
+15,1017,2024,Organização,4.3,Gestor TI
+16,1140,2024,Organização,3.7,Gerente Operações
+17,1042,2024,Organização,3.6,Gestor Financeiro
+18,1077,2023,Entrega de resultados,3.4,Gestor RH
+19,1027,2024,Liderança,4.0,Gerente Operações
+20,1145,2023,Trabalho em equipe,3.6,Gestor TI
+21,1058,2024,Organização,4.5,Gestor TI
+22,1062,2024,Entrega de resultados,3.2,Gerente Operações
+23,1091,2024,Liderança,4.3,Gestor TI
+24,1055,2023,Trabalho em equipe,3.5,Gerente Operações
+25,1110,2024,Entrega de resultados,4.0,Gestor TI
+26,1136,2024,Trabalho em equipe,3.6,Gerente Operações
+27,1067,2023,Organização,4.4,Gestor RH
+28,1045,2023,Liderança,4.9,Gestor RH
+29,1066,2023,Entrega de resultados,4.8,Gestor RH
+30,1135,2023,Liderança,4.2,Gestor RH
+31,1005,2024,Organização,3.9,Gestor TI
+32,1023,2024,Liderança,4.6,Gestor Financeiro
+33,1093,2024,Liderança,4.4,Gerente Operações
+34,1012,2024,Comunicação,3.4,Gestor Financeiro
+35,1024,2023,Liderança,4.6,Gestor TI
+36,1147,2024,Trabalho em equipe,3.9,Gestor TI
+37,1117,2024,Entrega de resultados,3.4,Gestor Financeiro
+38,1081,2024,Comunicação,3.6,Gestor Financeiro
+39,1110,2024,Entrega de resultados,3.5,Gestor TI
+40,1081,2023,Entrega de resultados,4.0,Gestor TI
+41,1065,2024,Organização,3.5,Gerente Operações
+42,1044,2024,Organização,3.2,Gestor RH
+43,1113,2024,Comunicação,3.2,Gestor RH
+44,1062,2023,Organização,4.2,Gerente Operações
+45,1075,2023,Organização,4.5,Gestor Financeiro
+46,1113,2024,Organização,3.6,Gestor TI
+47,1110,2024,Entrega de resultados,3.1,Gestor Financeiro
+48,1146,2024,Comunicação,3.3,Gestor RH
+49,1034,2023,Entrega de resultados,4.8,Gestor RH
+50,1052,2024,Trabalho em equipe,4.0,Gestor Financeiro
+51,1025,2024,Entrega de resultados,3.9,Gestor RH
+52,1013,2024,Trabalho em equipe,3.1,Gestor TI
+53,1117,2023,Liderança,4.5,Gerente Operações
+54,1044,2024,Liderança,4.1,Gestor Financeiro
+55,1050,2024,Trabalho em equipe,3.4,Gestor TI
+56,1118,2023,Trabalho em equipe,3.2,Gestor TI
+57,1018,2023,Entrega de resultados,3.8,Gestor RH
+58,1081,2024,Trabalho em equipe,4.7,Gestor TI
+59,1075,2023,Comunicação,4.7,Gestor Financeiro
+60,1091,2024,Liderança,4.2,Gestor TI
+61,1032,2023,Liderança,4.5,Gerente Operações
+62,1146,2023,Trabalho em equipe,3.2,Gestor TI
+63,1027,2024,Organização,4.2,Gestor TI
+64,1122,2024,Organização,4.3,Gerente Operações
+65,1125,2024,Trabalho em equipe,3.4,Gestor TI
+66,1036,2023,Comunicação,4.8,Gestor TI
+67,1098,2024,Organização,3.4,Gestor RH
+68,1097,2024,Trabalho em equipe,3.6,Gestor Financeiro
+69,1126,2024,Comunicação,4.2,Gestor RH
+70,1079,2024,Comunicação,4.3,Gestor Financeiro
+71,1037,2024,Entrega de resultados,4.4,Gerente Operações
+72,1076,2023,Comunicação,3.2,Gerente Operações
+73,1125,2024,Organização,4.7,Gerente Operações
+74,1086,2024,Organização,4.1,Gestor Financeiro
+75,1053,2023,Trabalho em equipe,3.9,Gestor Financeiro
+76,1149,2024,Trabalho em equipe,5.0,Gestor Financeiro
+77,1015,2024,Comunicação,4.5,Gerente Operações
+78,1027,2024,Liderança,3.2,Gestor Financeiro
+79,1045,2024,Entrega de resultados,4.5,Gestor TI
+80,1071,2024,Liderança,3.2,Gestor RH
+81,1084,2023,Comunicação,3.1,Gerente Operações
+82,1025,2023,Comunicação,3.8,Gestor RH
+83,1084,2023,Liderança,5.0,Gestor TI
+84,1064,2024,Entrega de resultados,3.3,Gestor Financeiro
+85,1133,2023,Liderança,4.3,Gestor RH
+86,1114,2024,Trabalho em equipe,3.3,Gestor TI
+87,1063,2024,Organização,4.4,Gestor TI
+88,1086,2024,Trabalho em equipe,4.0,Gestor RH
+89,1106,2023,Organização,4.4,Gerente Operações
+90,1095,2023,Comunicação,3.4,Gestor RH
+91,1076,2023,Entrega de resultados,4.5,Gerente Operações
+92,1145,2024,Liderança,5.0,Gestor Financeiro
+93,1086,2023,Entrega de resultados,4.3,Gerente Operações
+94,1148,2024,Liderança,4.0,Gestor Financeiro
+95,1056,2023,Trabalho em equipe,4.8,Gestor RH
+96,1102,2023,Trabalho em equipe,3.0,Gestor Financeiro
+97,1090,2024,Liderança,4.5,Gestor TI
+98,1044,2024,Entrega de resultados,4.8,Gestor Financeiro
+99,1087,2023,Liderança,3.1,Gerente Operações
+100,1114,2023,Comunicação,3.9,Gerente Operações
+101,1046,2023,Trabalho em equipe,3.4,Gerente Operações
+102,1134,2024,Comunicação,4.1,Gestor Financeiro
+103,1049,2024,Trabalho em equipe,4.3,Gerente Operações
+104,1083,2023,Trabalho em equipe,3.6,Gerente Operações
+105,1090,2023,Organização,3.9,Gestor TI
+106,1133,2024,Comunicação,3.6,Gestor Financeiro
+107,1090,2023,Comunicação,3.7,Gestor TI
+108,1136,2024,Organização,3.3,Gerente Operações
+109,1108,2024,Entrega de resultados,4.8,Gerente Operações
+110,1056,2024,Comunicação,3.0,Gerente Operações
+111,1030,2024,Liderança,4.8,Gestor Financeiro
+112,1020,2024,Organização,4.1,Gestor RH
+113,1089,2024,Comunicação,3.7,Gerente Operações
+114,1039,2023,Entrega de resultados,4.4,Gerente Operações
+115,1111,2024,Comunicação,4.0,Gerente Operações
+116,1044,2024,Trabalho em equipe,4.0,Gerente Operações
+117,1076,2023,Liderança,3.2,Gestor Financeiro
+118,1086,2024,Organização,3.8,Gestor RH
+119,1147,2023,Trabalho em equipe,3.5,Gestor RH
+120,1100,2024,Entrega de resultados,3.0,Gestor RH
+121,1116,2023,Trabalho em equipe,3.7,Gerente Operações
+122,1091,2023,Trabalho em equipe,3.2,Gerente Operações
+123,1144,2024,Entrega de resultados,3.5,Gestor RH
+124,1027,2024,Trabalho em equipe,3.2,Gestor RH
+125,1024,2024,Organização,3.2,Gerente Operações
+126,1057,2024,Comunicação,3.4,Gerente Operações
+127,1040,2023,Trabalho em equipe,5.0,Gestor TI
+128,1133,2023,Organização,3.0,Gestor TI
+129,1074,2023,Comunicação,4.3,Gestor TI
+130,1037,2024,Comunicação,3.3,Gestor RH
+131,1133,2023,Trabalho em equipe,4.8,Gestor Financeiro
+132,1074,2024,Organização,3.2,Gerente Operações
+133,1141,2024,Trabalho em equipe,4.9,Gestor TI
+134,1065,2023,Entrega de resultados,4.2,Gestor Financeiro
+135,1002,2024,Comunicação,3.0,Gerente Operações
+136,1116,2023,Trabalho em equipe,4.8,Gestor Financeiro
+137,1098,2024,Comunicação,4.0,Gestor RH
+138,1018,2023,Organização,3.5,Gestor RH
+139,1145,2024,Liderança,4.5,Gestor RH
+140,1115,2023,Trabalho em equipe,4.9,Gestor TI
+141,1124,2023,Trabalho em equipe,4.0,Gerente Operações
+142,1087,2024,Comunicação,3.6,Gestor RH
+143,1034,2024,Organização,4.6,Gestor TI
+144,1000,2023,Entrega de resultados,4.4,Gestor TI
+145,1125,2024,Organização,4.8,Gestor TI
+146,1088,2024,Trabalho em equipe,4.4,Gestor TI
+147,1143,2024,Entrega de resultados,3.5,Gestor RH
+148,1146,2023,Organização,4.9,Gestor TI
+149,1024,2023,Liderança,3.2,Gestor RH
+150,1015,2024,Comunicação,3.5,Gestor RH
+151,1072,2024,Organização,4.0,Gestor TI
+152,1128,2023,Organização,4.1,Gestor RH
+153,1041,2024,Liderança,3.0,Gerente Operações
+154,1146,2023,Trabalho em equipe,4.6,Gerente Operações
+155,1079,2024,Comunicação,3.7,Gestor Financeiro
+156,1103,2024,Organização,3.8,Gerente Operações
+157,1145,2024,Entrega de resultados,4.6,Gestor RH
+158,1033,2023,Organização,3.8,Gestor RH
+159,1088,2023,Comunicação,3.1,Gerente Operações
+160,1124,2023,Organização,3.4,Gestor TI
+161,1044,2023,Liderança,4.9,Gestor TI
+162,1133,2024,Organização,3.1,Gestor RH
+163,1020,2024,Organização,3.7,Gestor TI
+164,1121,2023,Entrega de resultados,4.0,Gestor Financeiro
+165,1069,2024,Liderança,4.0,Gestor Financeiro
+166,1095,2024,Liderança,3.0,Gerente Operações
+167,1104,2023,Organização,4.0,Gerente Operações
+168,1047,2024,Entrega de resultados,3.8,Gestor TI
+169,1038,2024,Organização,4.9,Gestor RH
+170,1030,2023,Organização,3.3,Gerente Operações
+171,1009,2024,Comunicação,3.7,Gestor Financeiro
+172,1029,2024,Comunicação,3.8,Gerente Operações
+173,1017,2024,Entrega de resultados,3.8,Gerente Operações
+174,1087,2023,Trabalho em equipe,4.3,Gestor Financeiro
+175,1124,2023,Comunicação,3.4,Gestor RH
+176,1072,2024,Trabalho em equipe,3.4,Gerente Operações
+177,1014,2024,Liderança,4.5,Gerente Operações
+178,1003,2024,Comunicação,4.0,Gerente Operações
+179,1008,2023,Comunicação,3.8,Gestor TI
+180,1108,2023,Entrega de resultados,3.3,Gerente Operações
+181,1136,2023,Trabalho em equipe,3.4,Gestor Financeiro
+182,1131,2024,Comunicação,3.0,Gestor RH
+183,1015,2024,Comunicação,3.2,Gestor RH
+184,1142,2024,Entrega de resultados,4.1,Gestor Financeiro
+185,1098,2024,Entrega de resultados,4.8,Gestor TI
+186,1120,2024,Trabalho em equipe,3.6,Gestor Financeiro
+187,1051,2023,Liderança,3.7,Gestor RH
+188,1068,2024,Liderança,3.2,Gestor Financeiro
+189,1004,2024,Organização,3.8,Gestor TI
+190,1019,2024,Comunicação,3.1,Gestor RH
+191,1078,2023,Trabalho em equipe,4.8,Gestor TI
+192,1145,2024,Comunicação,4.3,Gestor Financeiro
+193,1110,2023,Trabalho em equipe,5.0,Gerente Operações
+194,1001,2023,Trabalho em equipe,4.8,Gestor Financeiro
+195,1092,2023,Trabalho em equipe,3.9,Gestor TI
+196,1012,2023,Comunicação,4.0,Gestor Financeiro
+197,1003,2023,Entrega de resultados,3.4,Gerente Operações
+198,1108,2024,Comunicação,3.9,Gestor TI
+199,1073,2024,Trabalho em equipe,4.8,Gestor Financeiro
+200,1094,2023,Organização,3.1,Gestor TI
+201,1104,2023,Liderança,4.7,Gestor TI
+202,1007,2023,Trabalho em equipe,3.7,Gestor RH
+203,1066,2024,Organização,4.8,Gestor RH
+204,1109,2024,Entrega de resultados,4.9,Gestor TI
+205,1008,2023,Trabalho em equipe,4.3,Gestor Financeiro
+206,1116,2024,Organização,4.3,Gestor Financeiro
+207,1010,2024,Trabalho em equipe,3.9,Gestor Financeiro
+208,1098,2023,Comunicação,4.7,Gerente Operações
+209,1041,2023,Organização,4.9,Gestor TI
+210,1140,2024,Comunicação,4.6,Gestor TI
+211,1119,2024,Comunicação,4.2,Gerente Operações
+212,1140,2024,Organização,4.2,Gestor TI
+213,1011,2023,Liderança,4.7,Gestor TI
+214,1036,2023,Organização,4.1,Gerente Operações
+215,1073,2023,Liderança,4.6,Gestor RH
+216,1072,2024,Trabalho em equipe,4.0,Gestor TI
+217,1051,2024,Trabalho em equipe,3.1,Gerente Operações
+218,1129,2023,Organização,3.8,Gestor Financeiro
+219,1055,2024,Trabalho em equipe,3.9,Gestor RH
+220,1059,2023,Entrega de resultados,3.3,Gestor Financeiro
+221,1022,2024,Comunicação,3.2,Gestor TI
+222,1102,2023,Comunicação,4.1,Gestor RH
+223,1039,2024,Liderança,3.2,Gerente Operações
+224,1063,2024,Trabalho em equipe,3.6,Gestor TI
+225,1084,2023,Liderança,4.5,Gerente Operações
+226,1088,2023,Comunicação,4.9,Gestor RH
+227,1030,2023,Comunicação,4.4,Gestor Financeiro
+228,1019,2023,Trabalho em equipe,5.0,Gestor TI
+229,1129,2023,Entrega de resultados,4.4,Gestor TI
+230,1012,2024,Entrega de resultados,3.6,Gerente Operações
+231,1121,2023,Trabalho em equipe,4.3,Gestor RH
+232,1102,2023,Trabalho em equipe,4.4,Gerente Operações
+233,1105,2023,Liderança,3.7,Gestor RH
+234,1118,2023,Trabalho em equipe,3.0,Gestor TI
+235,1069,2023,Entrega de resultados,4.4,Gestor RH
+236,1098,2024,Trabalho em equipe,3.0,Gestor TI
+237,1081,2023,Liderança,4.3,Gestor RH
+238,1074,2023,Liderança,3.3,Gestor Financeiro
+239,1117,2023,Liderança,4.1,Gestor RH
+240,1083,2024,Liderança,4.0,Gestor Financeiro
+241,1068,2024,Organização,3.0,Gestor RH
+242,1058,2023,Trabalho em equipe,3.7,Gestor RH
+243,1125,2023,Comunicação,4.2,Gerente Operações
+244,1110,2024,Trabalho em equipe,4.7,Gerente Operações
+245,1061,2024,Organização,4.8,Gestor TI
+246,1143,2024,Liderança,4.0,Gerente Operações
+247,1127,2023,Organização,4.5,Gestor RH
+248,1104,2023,Entrega de resultados,3.6,Gerente Operações
+249,1067,2024,Entrega de resultados,3.7,Gestor RH
+250,1014,2023,Trabalho em equipe,3.4,Gestor Financeiro
+251,1034,2024,Trabalho em equipe,4.1,Gestor RH
+252,1013,2024,Comunicação,3.6,Gestor TI
+253,1101,2024,Comunicação,3.2,Gestor Financeiro
+254,1099,2023,Entrega de resultados,4.4,Gestor TI
+255,1006,2024,Liderança,4.4,Gestor TI
+256,1029,2024,Organização,3.7,Gestor TI
+257,1048,2023,Comunicação,3.2,Gerente Operações
+258,1143,2024,Comunicação,3.9,Gestor TI
+259,1110,2023,Liderança,3.9,Gestor Financeiro
+260,1071,2024,Liderança,4.3,Gestor RH
+261,1079,2023,Trabalho em equipe,3.6,Gestor TI
+262,1082,2024,Organização,4.4,Gestor Financeiro
+263,1041,2024,Liderança,4.7,Gestor TI
+264,1016,2024,Comunicação,3.5,Gestor RH
+265,1006,2024,Comunicação,5.0,Gestor Financeiro
+266,1009,2024,Entrega de resultados,3.8,Gestor Financeiro
+267,1033,2023,Liderança,3.5,Gestor RH
+268,1035,2023,Trabalho em equipe,3.8,Gestor Financeiro
+269,1005,2024,Organização,3.2,Gestor RH
+270,1145,2024,Trabalho em equipe,3.3,Gestor Financeiro
+271,1133,2024,Comunicação,3.8,Gestor Financeiro
+272,1028,2023,Trabalho em equipe,4.5,Gestor RH
+273,1125,2023,Comunicação,4.8,Gestor RH
+274,1080,2024,Comunicação,4.3,Gestor Financeiro
+275,1074,2023,Comunicação,3.2,Gestor Financeiro
+276,1025,2024,Comunicação,4.3,Gestor RH
+277,1126,2024,Comunicação,4.3,Gerente Operações
+278,1114,2024,Entrega de resultados,4.6,Gestor RH
+279,1125,2023,Trabalho em equipe,4.7,Gestor Financeiro
+280,1027,2024,Entrega de resultados,4.7,Gestor Financeiro
+281,1130,2024,Entrega de resultados,3.8,Gestor Financeiro
+282,1074,2024,Liderança,4.4,Gestor RH
+283,1077,2023,Liderança,3.5,Gestor Financeiro
+284,1089,2023,Liderança,5.0,Gerente Operações
+285,1020,2023,Organização,3.4,Gestor TI
+286,1053,2024,Liderança,3.0,Gerente Operações
+287,1102,2023,Trabalho em equipe,3.3,Gestor RH
+288,1058,2024,Entrega de resultados,4.6,Gestor Financeiro
+289,1071,2023,Trabalho em equipe,3.9,Gestor RH
+290,1019,2024,Liderança,3.9,Gestor TI
+291,1111,2023,Organização,4.9,Gestor RH
+292,1058,2024,Organização,4.8,Gestor Financeiro
+293,1070,2023,Entrega de resultados,3.6,Gestor TI
+294,1136,2023,Trabalho em equipe,3.4,Gestor TI
+295,1108,2023,Comunicação,4.7,Gestor Financeiro
+296,1128,2024,Trabalho em equipe,4.8,Gestor Financeiro
+297,1055,2023,Liderança,4.1,Gestor Financeiro
+298,1034,2023,Comunicação,4.3,Gestor RH
+299,1122,2023,Organização,3.5,Gerente Operações
+300,1130,2023,Entrega de resultados,4.6,Gestor RH
+301,1103,2024,Entrega de resultados,4.3,Gestor RH
+302,1006,2023,Organização,4.0,Gerente Operações
+303,1026,2024,Liderança,3.1,Gestor Financeiro
+304,1000,2024,Organização,4.8,Gestor Financeiro
+305,1086,2024,Liderança,4.2,Gerente Operações
+306,1040,2024,Comunicação,3.4,Gerente Operações
+307,1122,2023,Organização,4.2,Gestor RH
+308,1074,2024,Liderança,4.4,Gestor TI
+309,1041,2024,Comunicação,4.1,Gerente Operações
+310,1116,2024,Organização,4.4,Gestor RH
+311,1062,2024,Entrega de resultados,4.2,Gestor TI
+312,1126,2023,Organização,4.9,Gestor Financeiro
+313,1132,2023,Trabalho em equipe,3.1,Gestor Financeiro
+314,1047,2024,Organização,3.2,Gestor RH
+315,1002,2024,Trabalho em equipe,3.3,Gestor RH
+316,1115,2024,Comunicação,4.4,Gerente Operações
+317,1098,2023,Organização,4.3,Gestor Financeiro
+318,1115,2023,Comunicação,4.8,Gestor RH
+319,1013,2023,Comunicação,4.5,Gestor Financeiro
+320,1111,2023,Liderança,4.0,Gestor Financeiro
+321,1060,2023,Comunicação,5.0,Gerente Operações
+322,1094,2024,Comunicação,3.5,Gestor TI
+323,1016,2023,Organização,4.7,Gerente Operações
+324,1123,2023,Organização,3.9,Gestor RH
+325,1023,2024,Entrega de resultados,4.3,Gerente Operações
+326,1115,2023,Liderança,4.5,Gerente Operações
+327,1081,2023,Comunicação,4.3,Gestor Financeiro
+328,1049,2023,Liderança,3.3,Gerente Operações
+329,1078,2024,Trabalho em equipe,3.9,Gestor RH
+330,1078,2023,Comunicação,4.1,Gestor TI
+331,1069,2024,Liderança,4.7,Gerente Operações
+332,1026,2024,Entrega de resultados,3.9,Gerente Operações
+333,1014,2023,Entrega de resultados,4.8,Gestor TI
+334,1049,2023,Comunicação,3.9,Gestor RH
+335,1035,2023,Trabalho em equipe,4.1,Gestor RH
+336,1007,2023,Entrega de resultados,4.6,Gerente Operações
+337,1078,2024,Entrega de resultados,4.2,Gestor Financeiro
+338,1130,2023,Trabalho em equipe,4.9,Gerente Operações
+339,1046,2024,Liderança,4.3,Gestor TI
+340,1104,2024,Entrega de resultados,4.0,Gestor TI
+341,1097,2024,Organização,3.0,Gestor TI
+342,1095,2024,Entrega de resultados,3.8,Gerente Operações
+343,1115,2024,Liderança,3.6,Gerente Operações
+344,1012,2023,Liderança,4.5,Gestor RH
+345,1000,2024,Comunicação,3.4,Gestor Financeiro
+346,1033,2024,Organização,3.4,Gerente Operações
+347,1078,2023,Liderança,3.4,Gestor RH
+348,1077,2023,Trabalho em equipe,3.3,Gerente Operações
+349,1120,2024,Organização,3.6,Gestor RH
+350,1092,2024,Organização,4.8,Gestor RH
+351,1097,2023,Trabalho em equipe,4.5,Gestor Financeiro
+352,1081,2024,Entrega de resultados,4.5,Gerente Operações
+353,1037,2023,Trabalho em equipe,4.6,Gestor RH
+354,1013,2023,Trabalho em equipe,3.5,Gestor TI
+355,1135,2024,Entrega de resultados,4.8,Gestor TI
+356,1090,2023,Entrega de resultados,3.3,Gestor TI
+357,1053,2024,Entrega de resultados,3.7,Gestor Financeiro
+358,1129,2024,Entrega de resultados,4.2,Gestor RH
+359,1100,2024,Entrega de resultados,3.2,Gestor Financeiro
+360,1088,2023,Trabalho em equipe,4.5,Gerente Operações
+361,1055,2024,Comunicação,3.8,Gerente Operações
+362,1093,2023,Comunicação,4.6,Gestor RH
+363,1092,2024,Liderança,4.0,Gestor TI
+364,1083,2024,Comunicação,3.4,Gestor RH
+365,1084,2023,Comunicação,4.5,Gestor RH
+366,1021,2024,Trabalho em equipe,3.5,Gestor RH
+367,1034,2024,Entrega de resultados,4.0,Gestor Financeiro
+368,1015,2023,Entrega de resultados,3.2,Gerente Operações
+369,1049,2023,Trabalho em equipe,4.2,Gestor RH
+370,1121,2023,Comunicação,4.3,Gestor RH
+371,1127,2024,Trabalho em equipe,3.8,Gestor RH
+372,1112,2023,Liderança,4.9,Gestor Financeiro
+373,1016,2023,Entrega de resultados,4.7,Gestor Financeiro
+374,1079,2024,Organização,4.4,Gestor Financeiro
+375,1129,2023,Liderança,4.4,Gestor RH
+376,1131,2024,Liderança,3.5,Gestor TI
+377,1084,2024,Trabalho em equipe,4.3,Gestor TI
+378,1093,2023,Comunicação,3.4,Gestor TI
+379,1133,2024,Entrega de resultados,3.3,Gerente Operações
+380,1080,2023,Organização,5.0,Gestor RH
+381,1068,2023,Liderança,4.2,Gestor TI
+382,1068,2023,Organização,3.9,Gestor TI
+383,1147,2023,Comunicação,3.6,Gestor TI
+384,1015,2024,Comunicação,4.2,Gestor RH
+385,1050,2024,Organização,3.1,Gestor TI
+386,1104,2023,Entrega de resultados,3.2,Gestor TI
+387,1065,2023,Comunicação,3.1,Gestor RH
+388,1008,2024,Organização,4.0,Gerente Operações
+389,1106,2023,Liderança,4.2,Gestor Financeiro
+390,1099,2024,Organização,3.1,Gestor TI
+391,1085,2023,Organização,4.4,Gestor Financeiro
+392,1063,2024,Trabalho em equipe,3.5,Gerente Operações
+393,1021,2024,Comunicação,4.4,Gerente Operações
+394,1109,2024,Entrega de resultados,5.0,Gestor TI
+395,1096,2023,Entrega de resultados,4.4,Gestor RH
+396,1017,2023,Trabalho em equipe,4.8,Gerente Operações
+397,1070,2023,Entrega de resultados,4.9,Gestor Financeiro
+398,1126,2023,Organização,4.0,Gestor Financeiro
+399,1096,2023,Trabalho em equipe,4.4,Gestor Financeiro
+400,1000,2024,Liderança,4.7,Gestor Financeiro
+401,1131,2024,Comunicação,3.7,Gerente Operações
+402,1003,2024,Comunicação,3.5,Gestor TI
+403,1124,2024,Comunicação,4.9,Gestor TI
+404,1081,2024,Organização,4.5,Gestor Financeiro
+405,1026,2024,Liderança,3.4,Gestor TI
+406,1058,2024,Trabalho em equipe,3.9,Gestor Financeiro
+407,1031,2023,Trabalho em equipe,4.6,Gestor Financeiro
+408,1027,2024,Comunicação,4.1,Gestor RH
+409,1105,2023,Liderança,4.3,Gerente Operações
+410,1104,2024,Liderança,4.5,Gerente Operações
+411,1069,2024,Liderança,4.2,Gestor Financeiro
+412,1061,2023,Entrega de resultados,4.1,Gerente Operações
+413,1033,2024,Entrega de resultados,4.5,Gestor TI
+414,1086,2023,Comunicação,4.5,Gestor Financeiro
+415,1113,2024,Liderança,4.3,Gestor RH
+416,1105,2023,Liderança,3.7,Gestor TI
+417,1055,2024,Trabalho em equipe,3.8,Gestor RH
+418,1112,2023,Trabalho em equipe,4.9,Gestor RH
+419,1012,2023,Comunicação,3.2,Gerente Operações
+420,1017,2024,Liderança,3.5,Gerente Operações
+421,1112,2024,Comunicação,4.0,Gestor Financeiro
+422,1038,2023,Trabalho em equipe,4.7,Gerente Operações
+423,1078,2024,Trabalho em equipe,3.3,Gestor RH
+424,1145,2023,Entrega de resultados,3.6,Gestor RH
+425,1029,2024,Comunicação,3.1,Gestor TI
+426,1097,2023,Comunicação,4.4,Gestor RH
+427,1057,2024,Liderança,3.5,Gestor Financeiro
+428,1066,2023,Liderança,3.8,Gestor Financeiro
+429,1070,2024,Entrega de resultados,3.9,Gerente Operações
+430,1145,2023,Organização,4.8,Gerente Operações
+431,1105,2023,Organização,3.8,Gerente Operações
+432,1006,2024,Organização,3.3,Gestor Financeiro
+433,1039,2024,Comunicação,4.0,Gestor RH
+434,1069,2023,Comunicação,4.9,Gerente Operações
+435,1067,2023,Trabalho em equipe,4.2,Gestor TI
+436,1048,2023,Comunicação,5.0,Gerente Operações
+437,1051,2023,Comunicação,4.7,Gestor Financeiro
+438,1113,2024,Comunicação,3.1,Gerente Operações
+439,1106,2023,Entrega de resultados,4.3,Gestor RH
+440,1028,2023,Comunicação,3.6,Gerente Operações
+441,1148,2023,Liderança,4.1,Gestor Financeiro
+442,1077,2024,Liderança,3.6,Gestor Financeiro
+443,1008,2023,Trabalho em equipe,3.7,Gestor TI
+444,1075,2024,Entrega de resultados,4.8,Gestor Financeiro
+445,1041,2024,Liderança,3.4,Gestor TI
+446,1127,2024,Entrega de resultados,4.7,Gestor RH
+447,1019,2024,Entrega de resultados,3.1,Gestor Financeiro
+448,1071,2024,Trabalho em equipe,3.2,Gerente Operações
+449,1064,2024,Entrega de resultados,4.7,Gestor RH
+450,1112,2024,Comunicação,4.3,Gerente Operações
+451,1023,2023,Entrega de resultados,4.5,Gerente Operações
+452,1127,2023,Trabalho em equipe,3.4,Gerente Operações
+453,1082,2024,Trabalho em equipe,4.1,Gestor RH
+454,1062,2023,Trabalho em equipe,4.5,Gestor RH
+455,1059,2023,Liderança,4.3,Gestor Financeiro
+456,1098,2024,Comunicação,3.9,Gerente Operações
+457,1061,2023,Liderança,4.9,Gestor TI
+458,1029,2024,Organização,4.4,Gestor Financeiro
+459,1021,2023,Comunicação,4.8,Gestor RH
+460,1125,2024,Entrega de resultados,4.5,Gestor TI
+461,1041,2024,Trabalho em equipe,4.5,Gestor RH
+462,1097,2023,Organização,3.2,Gestor TI
+463,1030,2023,Comunicação,3.7,Gestor Financeiro
+464,1111,2024,Liderança,4.7,Gestor TI
+465,1145,2024,Trabalho em equipe,3.5,Gestor Financeiro
+466,1121,2024,Liderança,3.2,Gestor RH
+467,1016,2023,Comunicação,3.7,Gestor TI
+468,1037,2023,Comunicação,3.4,Gerente Operações
+469,1141,2023,Organização,4.9,Gerente Operações
+470,1109,2023,Entrega de resultados,4.7,Gestor RH
+471,1021,2024,Liderança,4.0,Gestor TI
+472,1055,2024,Organização,3.1,Gerente Operações
+473,1118,2024,Trabalho em equipe,4.4,Gestor Financeiro
+474,1146,2024,Entrega de resultados,4.2,Gestor TI
+475,1056,2023,Organização,4.9,Gestor TI
+476,1034,2024,Liderança,4.1,Gerente Operações
+477,1113,2024,Comunicação,3.7,Gestor Financeiro
+478,1124,2023,Trabalho em equipe,4.0,Gestor Financeiro
+479,1128,2023,Liderança,5.0,Gestor Financeiro
+480,1051,2024,Entrega de resultados,4.4,Gestor TI
+481,1084,2023,Entrega de resultados,4.3,Gestor RH
+482,1064,2024,Comunicação,3.5,Gestor TI
+483,1128,2023,Comunicação,4.5,Gestor TI
+484,1020,2023,Trabalho em equipe,4.5,Gerente Operações
+485,1015,2024,Trabalho em equipe,3.6,Gestor RH
+486,1122,2023,Comunicação,4.0,Gestor Financeiro
+487,1060,2024,Comunicação,3.6,Gerente Operações
+488,1053,2023,Entrega de resultados,3.5,Gestor TI
+489,1025,2023,Comunicação,3.1,Gestor RH
+490,1079,2023,Organização,3.6,Gestor Financeiro
+491,1064,2023,Liderança,4.1,Gestor Financeiro
+492,1099,2023,Comunicação,3.0,Gestor TI
+493,1073,2024,Trabalho em equipe,3.6,Gestor Financeiro
+494,1016,2023,Organização,4.8,Gestor Financeiro
+495,1120,2024,Trabalho em equipe,4.2,Gestor RH
+496,1022,2023,Organização,4.2,Gerente Operações
+497,1134,2024,Comunicação,3.8,Gestor RH
+498,1070,2023,Liderança,4.4,Gerente Operações
+499,1107,2024,Trabalho em equipe,3.4,Gerente Operações
+500,1078,2024,Organização,4.6,Gerente Operações
+501,1045,2023,Entrega de resultados,3.2,Gestor Financeiro
+502,1077,2023,Comunicação,4.3,Gestor RH
+503,1015,2023,Liderança,3.7,Gestor Financeiro
+504,1070,2024,Comunicação,4.5,Gestor TI
+505,1095,2024,Entrega de resultados,4.1,Gestor RH
+506,1146,2023,Liderança,3.9,Gerente Operações
+507,1001,2023,Entrega de resultados,3.3,Gestor Financeiro
+508,1009,2024,Comunicação,4.3,Gestor Financeiro
+509,1124,2024,Organização,4.9,Gestor RH
+510,1080,2023,Comunicação,4.7,Gestor RH
+511,1139,2024,Comunicação,3.1,Gerente Operações
+512,1069,2023,Comunicação,3.8,Gerente Operações
+513,1149,2023,Trabalho em equipe,4.9,Gestor TI
+514,1031,2023,Entrega de resultados,4.0,Gerente Operações
+515,1104,2024,Entrega de resultados,4.3,Gestor Financeiro
+516,1083,2024,Entrega de resultados,4.8,Gestor TI
+517,1128,2024,Trabalho em equipe,4.7,Gestor TI
+518,1057,2024,Organização,4.0,Gestor TI
+519,1145,2023,Comunicação,3.9,Gestor RH
+520,1133,2024,Organização,3.7,Gerente Operações
+521,1044,2023,Trabalho em equipe,4.4,Gestor TI
+522,1096,2023,Entrega de resultados,3.6,Gestor RH
+523,1022,2023,Comunicação,3.5,Gestor RH
+524,1022,2024,Liderança,3.7,Gestor TI
+525,1134,2023,Liderança,3.4,Gestor TI
+526,1078,2023,Organização,4.4,Gestor Financeiro
+527,1043,2024,Entrega de resultados,4.2,Gestor TI
+528,1026,2023,Liderança,4.0,Gestor Financeiro
+529,1025,2024,Organização,3.8,Gestor TI
+530,1096,2024,Trabalho em equipe,4.8,Gestor TI
+531,1035,2024,Organização,3.1,Gerente Operações
+532,1108,2023,Organização,4.5,Gestor TI
+533,1054,2024,Organização,4.8,Gestor TI
+534,1068,2024,Comunicação,3.9,Gestor Financeiro
+535,1060,2024,Organização,4.1,Gestor Financeiro
+536,1129,2024,Organização,4.9,Gerente Operações
+537,1054,2023,Comunicação,3.4,Gestor TI
+538,1121,2024,Comunicação,4.0,Gestor TI
+539,1096,2023,Trabalho em equipe,3.9,Gestor Financeiro
+540,1079,2024,Entrega de resultados,3.5,Gestor RH
+541,1086,2023,Liderança,4.6,Gestor RH
+542,1037,2024,Liderança,4.8,Gestor RH
+543,1118,2023,Organização,4.6,Gestor Financeiro
+544,1077,2024,Trabalho em equipe,3.4,Gestor Financeiro
+545,1034,2023,Organização,3.2,Gestor RH
+546,1078,2023,Liderança,4.2,Gestor RH
+547,1066,2023,Comunicação,3.1,Gestor TI
+548,1086,2024,Entrega de resultados,4.3,Gestor Financeiro
+549,1033,2023,Trabalho em equipe,4.1,Gestor Financeiro
+550,1096,2023,Comunicação,4.3,Gestor RH
+551,1070,2023,Entrega de resultados,4.2,Gestor RH
+552,1002,2023,Trabalho em equipe,3.8,Gerente Operações
+553,1057,2024,Trabalho em equipe,3.4,Gestor Financeiro
+554,1031,2023,Liderança,3.6,Gerente Operações
+555,1030,2023,Comunicação,4.0,Gestor TI
+556,1081,2023,Trabalho em equipe,4.3,Gerente Operações
+557,1042,2024,Trabalho em equipe,4.6,Gestor RH
+558,1134,2023,Entrega de resultados,4.5,Gestor Financeiro
+559,1104,2023,Liderança,4.9,Gestor Financeiro
+560,1000,2023,Organização,3.6,Gerente Operações
+561,1060,2023,Liderança,3.1,Gerente Operações
+562,1013,2024,Organização,3.7,Gestor TI
+563,1005,2023,Comunicação,4.5,Gestor TI
+564,1102,2023,Comunicação,3.9,Gestor RH
+565,1009,2024,Trabalho em equipe,4.6,Gestor RH
+566,1070,2024,Comunicação,4.1,Gestor RH
+567,1089,2024,Trabalho em equipe,4.9,Gerente Operações
+568,1148,2023,Liderança,4.9,Gerente Operações
+569,1125,2024,Comunicação,3.1,Gestor Financeiro
+570,1096,2023,Liderança,3.9,Gestor RH
+571,1073,2024,Liderança,4.2,Gerente Operações
+572,1114,2023,Comunicação,3.5,Gestor Financeiro
+573,1050,2024,Liderança,3.8,Gestor RH
+574,1055,2023,Comunicação,4.4,Gestor TI
+575,1040,2024,Comunicação,3.5,Gestor TI
+576,1031,2023,Comunicação,4.2,Gerente Operações
+577,1014,2023,Organização,4.4,Gestor Financeiro
+578,1061,2023,Liderança,3.2,Gestor TI
+579,1027,2023,Entrega de resultados,4.0,Gestor Financeiro
+580,1063,2023,Comunicação,3.5,Gestor Financeiro
+581,1129,2023,Liderança,4.4,Gestor TI
+582,1126,2023,Trabalho em equipe,3.4,Gestor Financeiro
+583,1035,2023,Comunicação,4.8,Gestor TI
+584,1113,2024,Comunicação,3.9,Gerente Operações
+585,1012,2023,Entrega de resultados,3.4,Gestor RH
+586,1014,2023,Organização,3.9,Gestor RH
+587,1088,2024,Organização,3.8,Gerente Operações
+588,1021,2023,Comunicação,3.9,Gestor TI
+589,1073,2024,Liderança,4.2,Gestor TI
+590,1024,2023,Trabalho em equipe,4.0,Gestor TI
+591,1100,2024,Trabalho em equipe,3.3,Gestor TI
+592,1116,2024,Liderança,3.1,Gerente Operações
+593,1040,2023,Comunicação,4.5,Gestor RH
+594,1087,2024,Trabalho em equipe,4.1,Gestor Financeiro
+595,1109,2023,Organização,3.7,Gestor Financeiro
+596,1119,2023,Liderança,4.6,Gestor RH
+597,1096,2023,Entrega de resultados,3.8,Gerente Operações
+598,1144,2023,Comunicação,4.6,Gestor Financeiro
+599,1056,2024,Liderança,3.6,Gestor RH
+600,1129,2023,Trabalho em equipe,3.1,Gerente Operações
+601,1095,2024,Comunicação,4.9,Gestor Financeiro
+602,1120,2024,Organização,3.8,Gestor TI
+603,1061,2023,Comunicação,4.6,Gestor TI
+604,1136,2023,Comunicação,3.6,Gerente Operações
+605,1067,2023,Organização,4.3,Gestor TI
+606,1080,2023,Organização,4.7,Gerente Operações
+607,1016,2024,Comunicação,3.1,Gestor RH
+608,1116,2023,Organização,4.7,Gestor RH
+609,1049,2024,Liderança,4.1,Gestor Financeiro
+610,1111,2023,Organização,4.2,Gerente Operações
+611,1093,2023,Organização,4.0,Gestor Financeiro
+612,1084,2023,Comunicação,4.7,Gestor Financeiro
+613,1148,2023,Liderança,3.1,Gestor RH
+614,1145,2024,Entrega de resultados,3.5,Gestor Financeiro
+615,1073,2024,Entrega de resultados,4.8,Gestor TI
+616,1108,2023,Trabalho em equipe,4.5,Gestor Financeiro
+617,1144,2024,Organização,3.0,Gerente Operações
+618,1017,2024,Organização,4.0,Gestor TI
+619,1041,2023,Liderança,4.1,Gestor RH
+620,1100,2023,Entrega de resultados,3.8,Gerente Operações
+621,1044,2024,Trabalho em equipe,3.6,Gestor TI
+622,1081,2024,Liderança,4.4,Gerente Operações
+623,1016,2024,Organização,3.4,Gestor TI
+624,1072,2024,Entrega de resultados,4.6,Gerente Operações
+625,1013,2023,Trabalho em equipe,4.6,Gerente Operações
+626,1131,2023,Comunicação,3.8,Gestor TI
+627,1081,2024,Entrega de resultados,3.6,Gestor RH
+628,1147,2023,Trabalho em equipe,3.6,Gestor RH
+629,1119,2024,Liderança,4.0,Gerente Operações
+630,1119,2024,Comunicação,4.4,Gerente Operações
+631,1046,2023,Trabalho em equipe,3.7,Gestor RH
+632,1106,2024,Trabalho em equipe,4.2,Gestor RH
+633,1107,2024,Organização,3.8,Gestor Financeiro
+634,1008,2023,Entrega de resultados,3.6,Gestor RH
+635,1078,2023,Organização,3.0,Gerente Operações
+636,1014,2024,Comunicação,3.0,Gestor TI
+637,1018,2024,Trabalho em equipe,3.5,Gestor RH
+638,1089,2023,Organização,3.8,Gestor Financeiro
+639,1025,2024,Entrega de resultados,4.7,Gestor Financeiro
+640,1091,2024,Comunicação,4.6,Gestor Financeiro
+641,1081,2023,Liderança,3.5,Gestor TI
+642,1130,2023,Organização,3.5,Gestor RH
+643,1041,2023,Comunicação,3.5,Gestor RH
+644,1018,2023,Liderança,3.7,Gestor RH
+645,1016,2023,Organização,4.0,Gestor TI
+646,1075,2023,Comunicação,3.9,Gestor TI
+647,1062,2024,Comunicação,3.4,Gerente Operações
+648,1130,2024,Organização,3.3,Gestor Financeiro
+649,1106,2023,Comunicação,3.0,Gestor Financeiro
+650,1048,2023,Trabalho em equipe,3.3,Gestor RH
+651,1054,2024,Organização,4.4,Gestor TI
+652,1098,2024,Comunicação,3.5,Gestor TI
+653,1051,2024,Liderança,3.9,Gestor RH
+654,1099,2023,Liderança,4.2,Gestor RH
+655,1116,2023,Trabalho em equipe,4.8,Gerente Operações
+656,1117,2024,Organização,4.8,Gestor Financeiro
+657,1006,2023,Comunicação,4.5,Gestor Financeiro
+658,1045,2023,Comunicação,3.1,Gestor Financeiro
+659,1045,2023,Liderança,4.2,Gerente Operações
+660,1099,2024,Trabalho em equipe,4.6,Gestor RH
+661,1143,2024,Liderança,3.0,Gestor RH
+662,1053,2023,Liderança,4.1,Gestor Financeiro
+663,1061,2023,Trabalho em equipe,4.7,Gestor Financeiro
+664,1128,2023,Organização,3.9,Gerente Operações
+665,1048,2023,Comunicação,3.0,Gestor TI
+666,1024,2023,Organização,3.0,Gestor TI
+667,1009,2024,Entrega de resultados,3.8,Gestor Financeiro
+668,1117,2023,Entrega de resultados,3.3,Gerente Operações
+669,1143,2023,Entrega de resultados,4.3,Gestor Financeiro
+670,1091,2023,Trabalho em equipe,4.4,Gestor TI
+671,1133,2024,Liderança,3.4,Gestor Financeiro
+672,1143,2024,Organização,4.8,Gestor TI
+673,1147,2023,Comunicação,3.9,Gestor TI
+674,1079,2024,Entrega de resultados,3.3,Gestor TI
+675,1070,2024,Organização,4.5,Gestor RH
+676,1077,2024,Entrega de resultados,4.6,Gestor RH
+677,1042,2024,Entrega de resultados,4.3,Gestor Financeiro
+678,1089,2024,Comunicação,4.7,Gestor TI
+679,1077,2024,Trabalho em equipe,4.5,Gestor RH
+680,1025,2023,Liderança,4.8,Gestor Financeiro
+681,1120,2024,Trabalho em equipe,3.9,Gestor Financeiro
+682,1044,2024,Organização,4.5,Gestor Financeiro
+683,1062,2023,Trabalho em equipe,5.0,Gestor Financeiro
+684,1067,2023,Organização,4.4,Gestor Financeiro
+685,1001,2023,Organização,3.2,Gerente Operações
+686,1141,2023,Liderança,4.0,Gestor TI
+687,1107,2024,Comunicação,4.2,Gestor Financeiro
+688,1029,2024,Liderança,3.3,Gerente Operações
+689,1048,2024,Trabalho em equipe,4.9,Gestor TI
+690,1139,2024,Organização,3.4,Gestor RH
+691,1043,2023,Entrega de resultados,3.4,Gestor Financeiro
+692,1012,2024,Entrega de resultados,4.8,Gerente Operações
+693,1077,2024,Organização,3.9,Gestor RH
+694,1125,2023,Liderança,3.1,Gerente Operações
+695,1097,2024,Comunicação,4.2,Gestor TI
+696,1025,2024,Liderança,4.2,Gestor TI
+697,1148,2024,Organização,3.1,Gestor RH
+698,1047,2024,Organização,4.9,Gerente Operações
+699,1065,2023,Comunicação,4.1,Gestor Financeiro
+700,1086,2023,Trabalho em equipe,4.1,Gestor Financeiro
+701,1078,2023,Trabalho em equipe,4.0,Gestor RH
+702,1022,2023,Comunicação,4.2,Gestor RH
+703,1080,2023,Trabalho em equipe,3.5,Gestor RH
+704,1047,2024,Entrega de resultados,3.6,Gerente Operações
+705,1123,2024,Trabalho em equipe,4.0,Gestor Financeiro
+706,1129,2023,Trabalho em equipe,4.6,Gestor Financeiro
+707,1083,2023,Trabalho em equipe,3.1,Gestor Financeiro
+708,1019,2023,Entrega de resultados,4.2,Gestor RH
+709,1045,2024,Trabalho em equipe,4.6,Gestor Financeiro
+710,1130,2023,Entrega de resultados,3.3,Gestor TI
+711,1011,2024,Comunicação,3.0,Gestor RH
+712,1039,2024,Liderança,3.6,Gestor Financeiro
+713,1065,2024,Comunicação,4.2,Gerente Operações
+714,1099,2024,Liderança,3.3,Gestor RH
+715,1077,2023,Comunicação,3.9,Gestor TI
+716,1015,2024,Liderança,4.1,Gestor TI
+717,1082,2024,Liderança,4.2,Gerente Operações
+718,1043,2023,Organização,3.5,Gerente Operações
+719,1133,2024,Liderança,3.8,Gestor RH
+720,1099,2024,Liderança,4.6,Gestor RH
+721,1021,2024,Organização,4.9,Gestor TI
+722,1017,2023,Trabalho em equipe,4.7,Gerente Operações
+723,1011,2024,Trabalho em equipe,4.1,Gestor RH
+724,1122,2024,Organização,3.8,Gestor TI
+725,1116,2023,Entrega de resultados,3.7,Gerente Operações
+726,1050,2023,Liderança,3.2,Gestor TI
+727,1070,2024,Liderança,3.2,Gestor Financeiro
+728,1047,2024,Organização,4.4,Gerente Operações
+729,1018,2023,Organização,3.5,Gestor RH
+730,1005,2024,Entrega de resultados,3.5,Gestor RH
+731,1083,2023,Trabalho em equipe,5.0,Gestor Financeiro
+732,1052,2024,Comunicação,3.4,Gerente Operações
+733,1106,2023,Trabalho em equipe,3.3,Gestor TI
+734,1100,2024,Liderança,3.2,Gestor RH
+735,1047,2023,Organização,4.2,Gestor Financeiro
+736,1134,2023,Entrega de resultados,4.3,Gestor Financeiro
+737,1068,2023,Trabalho em equipe,3.7,Gerente Operações
+738,1010,2023,Entrega de resultados,4.1,Gerente Operações
+739,1142,2023,Trabalho em equipe,4.6,Gestor RH
+740,1130,2024,Liderança,4.6,Gestor Financeiro
+741,1121,2024,Comunicação,4.9,Gestor TI
+742,1068,2023,Entrega de resultados,4.6,Gestor Financeiro
+743,1022,2024,Entrega de resultados,4.1,Gestor TI
+744,1036,2024,Comunicação,3.4,Gestor TI
+745,1008,2024,Entrega de resultados,3.2,Gestor RH
+746,1014,2024,Entrega de resultados,3.1,Gestor Financeiro
+747,1130,2024,Trabalho em equipe,4.3,Gestor TI
+748,1092,2024,Trabalho em equipe,4.6,Gerente Operações
+749,1016,2023,Comunicação,4.0,Gestor TI
+750,1148,2024,Liderança,3.1,Gerente Operações
+751,1071,2024,Entrega de resultados,4.1,Gerente Operações
+752,1148,2024,Liderança,4.9,Gestor Financeiro
+753,1120,2023,Comunicação,4.2,Gerente Operações
+754,1010,2024,Comunicação,4.6,Gestor TI
+755,1071,2024,Trabalho em equipe,4.6,Gerente Operações
+756,1105,2024,Entrega de resultados,4.9,Gestor Financeiro
+757,1124,2023,Organização,4.5,Gestor RH
+758,1034,2024,Comunicação,4.5,Gestor TI
+759,1118,2023,Entrega de resultados,3.5,Gestor TI
+760,1013,2024,Liderança,3.1,Gestor Financeiro
+761,1013,2023,Trabalho em equipe,4.0,Gestor Financeiro
+762,1009,2023,Liderança,3.2,Gestor Financeiro
+763,1139,2023,Comunicação,4.9,Gestor Financeiro
+764,1037,2024,Comunicação,3.6,Gestor TI
+765,1107,2023,Liderança,4.7,Gestor RH
+766,1118,2023,Comunicação,3.8,Gerente Operações
+767,1033,2023,Entrega de resultados,3.6,Gerente Operações
+768,1009,2023,Comunicação,4.9,Gestor RH
+769,1121,2024,Trabalho em equipe,3.7,Gestor RH
+770,1144,2024,Entrega de resultados,3.8,Gestor RH
+771,1144,2024,Organização,3.2,Gestor Financeiro
+772,1114,2024,Comunicação,4.3,Gestor TI
+773,1000,2023,Comunicação,3.6,Gestor TI
+774,1011,2024,Trabalho em equipe,4.2,Gestor TI
+775,1102,2023,Trabalho em equipe,4.2,Gestor Financeiro
+776,1003,2024,Liderança,4.4,Gestor TI
+777,1140,2024,Liderança,4.5,Gestor Financeiro
+778,1097,2024,Liderança,4.0,Gestor TI
+779,1105,2023,Trabalho em equipe,3.7,Gestor RH
+780,1084,2024,Liderança,4.7,Gerente Operações
+781,1120,2024,Liderança,3.6,Gerente Operações
+782,1131,2024,Organização,4.0,Gestor Financeiro
+783,1081,2023,Liderança,3.8,Gestor TI
+784,1018,2024,Comunicação,4.7,Gerente Operações
+785,1129,2024,Trabalho em equipe,3.9,Gestor RH
+786,1011,2023,Entrega de resultados,3.8,Gestor RH
+787,1080,2023,Organização,4.4,Gestor RH
+788,1073,2024,Trabalho em equipe,4.2,Gestor Financeiro
+789,1097,2024,Trabalho em equipe,3.2,Gestor Financeiro
+790,1005,2024,Comunicação,4.0,Gestor TI
+791,1135,2023,Liderança,4.5,Gestor RH
+792,1124,2023,Comunicação,5.0,Gestor TI
+793,1050,2023,Liderança,4.3,Gestor TI
+794,1010,2024,Liderança,3.7,Gestor RH
+795,1126,2023,Trabalho em equipe,3.5,Gestor TI
+796,1139,2024,Liderança,4.7,Gerente Operações
+797,1072,2023,Organização,4.6,Gestor Financeiro
+798,1001,2023,Organização,3.5,Gestor TI
+799,1007,2023,Organização,3.4,Gestor RH
+800,1138,2024,Trabalho em equipe,4.4,Gestor Financeiro

@@ -1,0 +1,301 @@
+id_mov,id_colaborador,data,tipo_movimentacao,descricao,impacto_salario
+1,1062,2023-04-27,Transferência,Reajuste anual,+10%
+2,1072,2023-02-17,Promoção,Promoção por mérito,+10%
+3,1060,2020-04-14,Promoção,Mudança de área,+10%
+4,1063,2021-11-04,Transferência,Reajuste anual,+6%
+5,1068,2022-03-17,Reajuste,Promoção por mérito,+12%
+6,1128,2022-11-30,Reajuste,Promoção por mérito,+3%
+7,1105,2022-06-07,Reajuste,Mudança de área,+12%
+8,1064,2022-05-25,Reajuste,Reajuste anual,+6%
+9,1121,2021-11-07,Promoção,Promoção por mérito,+10%
+10,1061,2020-11-16,Transferência,Mudança de área,+3%
+11,1102,2020-11-30,Transferência,Promoção por mérito,+6%
+12,1059,2023-03-29,Promoção,Mudança de área,+10%
+13,1045,2020-09-20,Promoção,Promoção por mérito,+6%
+14,1004,2022-05-14,Promoção,Promoção por mérito,+3%
+15,1112,2020-12-17,Transferência,Mudança de área,+10%
+16,1149,2023-05-18,Transferência,Reajuste anual,+12%
+17,1069,2023-11-06,Transferência,Mudança de área,+6%
+18,1010,2021-11-06,Reajuste,Reajuste anual,+3%
+19,1137,2022-07-07,Promoção,Promoção por mérito,+12%
+20,1097,2020-01-05,Promoção,Promoção por mérito,+3%
+21,1030,2020-02-03,Promoção,Mudança de área,+6%
+22,1011,2023-03-14,Transferência,Mudança de área,+3%
+23,1107,2020-12-16,Promoção,Reajuste anual,+10%
+24,1079,2021-08-05,Promoção,Reajuste anual,+3%
+25,1066,2021-04-09,Reajuste,Reajuste anual,+6%
+26,1051,2020-12-13,Transferência,Mudança de área,+10%
+27,1132,2020-05-04,Promoção,Promoção por mérito,+3%
+28,1138,2023-07-18,Transferência,Mudança de área,+3%
+29,1024,2020-12-22,Transferência,Promoção por mérito,+10%
+30,1034,2021-06-10,Transferência,Mudança de área,+12%
+31,1021,2021-05-12,Reajuste,Mudança de área,+12%
+32,1095,2023-03-22,Transferência,Reajuste anual,+10%
+33,1116,2020-02-22,Transferência,Promoção por mérito,+3%
+34,1019,2020-05-28,Transferência,Mudança de área,+12%
+35,1105,2021-05-17,Promoção,Mudança de área,+10%
+36,1003,2022-05-19,Reajuste,Promoção por mérito,+6%
+37,1017,2024-01-13,Promoção,Mudança de área,+3%
+38,1050,2020-08-06,Reajuste,Promoção por mérito,+6%
+39,1019,2023-07-24,Reajuste,Reajuste anual,+3%
+40,1121,2021-03-27,Transferência,Reajuste anual,+12%
+41,1136,2023-12-22,Transferência,Promoção por mérito,+6%
+42,1079,2020-03-23,Promoção,Reajuste anual,+6%
+43,1101,2023-05-26,Reajuste,Promoção por mérito,+10%
+44,1024,2022-01-07,Transferência,Mudança de área,+12%
+45,1058,2021-06-10,Transferência,Mudança de área,+12%
+46,1044,2021-02-07,Transferência,Promoção por mérito,+3%
+47,1040,2020-10-16,Transferência,Mudança de área,+10%
+48,1037,2021-02-23,Promoção,Reajuste anual,+10%
+49,1116,2020-12-04,Promoção,Mudança de área,+3%
+50,1018,2022-02-15,Transferência,Mudança de área,+6%
+51,1013,2021-12-11,Transferência,Promoção por mérito,+3%
+52,1126,2022-09-13,Transferência,Reajuste anual,+3%
+53,1148,2022-08-16,Transferência,Mudança de área,+3%
+54,1142,2023-12-13,Transferência,Mudança de área,+10%
+55,1002,2023-05-15,Reajuste,Promoção por mérito,+3%
+56,1036,2021-11-16,Reajuste,Promoção por mérito,+3%
+57,1116,2023-07-12,Reajuste,Reajuste anual,+3%
+58,1015,2022-11-25,Reajuste,Mudança de área,+12%
+59,1141,2021-01-07,Transferência,Promoção por mérito,+6%
+60,1008,2023-07-06,Reajuste,Promoção por mérito,+6%
+61,1006,2022-09-20,Reajuste,Promoção por mérito,+6%
+62,1141,2021-06-14,Promoção,Reajuste anual,+6%
+63,1133,2022-07-12,Reajuste,Promoção por mérito,+10%
+64,1014,2020-01-23,Reajuste,Reajuste anual,+10%
+65,1071,2020-04-13,Transferência,Reajuste anual,+3%
+66,1103,2020-08-28,Reajuste,Mudança de área,+10%
+67,1128,2022-10-01,Reajuste,Mudança de área,+6%
+68,1095,2022-06-21,Transferência,Reajuste anual,+12%
+69,1121,2023-06-30,Reajuste,Mudança de área,+3%
+70,1114,2023-03-11,Transferência,Mudança de área,+3%
+71,1147,2022-03-24,Reajuste,Promoção por mérito,+6%
+72,1079,2021-10-16,Promoção,Mudança de área,+6%
+73,1006,2024-01-14,Promoção,Reajuste anual,+6%
+74,1134,2022-02-21,Reajuste,Mudança de área,+10%
+75,1049,2020-11-02,Promoção,Promoção por mérito,+3%
+76,1129,2020-01-08,Transferência,Reajuste anual,+6%
+77,1046,2022-12-28,Reajuste,Mudança de área,+12%
+78,1013,2021-07-28,Transferência,Reajuste anual,+3%
+79,1030,2022-12-27,Promoção,Mudança de área,+3%
+80,1049,2022-06-30,Transferência,Promoção por mérito,+10%
+81,1040,2023-12-02,Promoção,Mudança de área,+3%
+82,1013,2021-06-01,Promoção,Reajuste anual,+6%
+83,1132,2023-02-16,Promoção,Reajuste anual,+6%
+84,1004,2022-11-20,Transferência,Reajuste anual,+12%
+85,1004,2021-04-27,Promoção,Mudança de área,+3%
+86,1112,2020-07-25,Reajuste,Mudança de área,+3%
+87,1117,2021-10-30,Promoção,Mudança de área,+10%
+88,1095,2021-08-01,Reajuste,Promoção por mérito,+6%
+89,1035,2021-01-21,Reajuste,Promoção por mérito,+12%
+90,1078,2021-02-15,Reajuste,Promoção por mérito,+6%
+91,1018,2023-10-25,Reajuste,Reajuste anual,+3%
+92,1021,2023-10-08,Transferência,Reajuste anual,+3%
+93,1055,2023-09-21,Reajuste,Reajuste anual,+12%
+94,1016,2022-06-09,Promoção,Reajuste anual,+3%
+95,1016,2022-06-24,Reajuste,Reajuste anual,+12%
+96,1145,2023-08-05,Promoção,Mudança de área,+12%
+97,1077,2022-08-20,Transferência,Reajuste anual,+6%
+98,1055,2022-08-22,Reajuste,Mudança de área,+12%
+99,1079,2020-05-19,Promoção,Promoção por mérito,+3%
+100,1049,2020-10-26,Transferência,Promoção por mérito,+10%
+101,1057,2022-11-02,Transferência,Promoção por mérito,+10%
+102,1017,2021-10-25,Promoção,Promoção por mérito,+3%
+103,1134,2023-12-22,Reajuste,Promoção por mérito,+10%
+104,1075,2022-04-04,Transferência,Reajuste anual,+10%
+105,1009,2021-02-03,Promoção,Reajuste anual,+12%
+106,1068,2022-09-18,Reajuste,Reajuste anual,+10%
+107,1084,2023-02-06,Transferência,Promoção por mérito,+10%
+108,1130,2023-10-11,Promoção,Promoção por mérito,+10%
+109,1082,2020-05-28,Transferência,Mudança de área,+6%
+110,1108,2020-11-02,Transferência,Reajuste anual,+3%
+111,1043,2022-12-19,Promoção,Promoção por mérito,+12%
+112,1141,2021-03-10,Transferência,Promoção por mérito,+10%
+113,1131,2020-01-21,Promoção,Promoção por mérito,+3%
+114,1017,2022-05-24,Reajuste,Mudança de área,+10%
+115,1092,2021-01-16,Promoção,Promoção por mérito,+6%
+116,1037,2020-09-01,Reajuste,Mudança de área,+6%
+117,1147,2023-01-01,Transferência,Mudança de área,+10%
+118,1050,2024-01-12,Promoção,Reajuste anual,+10%
+119,1018,2023-01-04,Promoção,Promoção por mérito,+10%
+120,1119,2021-11-28,Promoção,Mudança de área,+6%
+121,1067,2021-08-12,Promoção,Promoção por mérito,+6%
+122,1065,2021-01-24,Reajuste,Reajuste anual,+3%
+123,1140,2023-09-27,Reajuste,Reajuste anual,+12%
+124,1097,2023-08-06,Transferência,Mudança de área,+12%
+125,1087,2021-07-21,Transferência,Reajuste anual,+6%
+126,1032,2023-09-16,Transferência,Reajuste anual,+12%
+127,1104,2020-09-15,Transferência,Reajuste anual,+10%
+128,1073,2021-03-01,Promoção,Promoção por mérito,+3%
+129,1081,2022-10-26,Reajuste,Promoção por mérito,+6%
+130,1018,2020-01-06,Reajuste,Mudança de área,+6%
+131,1070,2020-07-09,Reajuste,Mudança de área,+12%
+132,1056,2020-05-27,Reajuste,Reajuste anual,+10%
+133,1146,2021-02-08,Transferência,Reajuste anual,+3%
+134,1078,2020-09-14,Promoção,Mudança de área,+12%
+135,1041,2021-12-30,Reajuste,Reajuste anual,+6%
+136,1115,2020-03-30,Promoção,Mudança de área,+6%
+137,1003,2022-04-03,Promoção,Promoção por mérito,+12%
+138,1003,2020-01-10,Promoção,Reajuste anual,+10%
+139,1004,2023-01-15,Promoção,Reajuste anual,+3%
+140,1040,2022-04-17,Reajuste,Reajuste anual,+3%
+141,1107,2023-03-20,Reajuste,Promoção por mérito,+3%
+142,1086,2022-09-14,Reajuste,Promoção por mérito,+3%
+143,1103,2021-09-16,Transferência,Reajuste anual,+10%
+144,1116,2020-01-30,Reajuste,Mudança de área,+6%
+145,1100,2020-05-07,Transferência,Promoção por mérito,+6%
+146,1074,2023-01-06,Transferência,Reajuste anual,+3%
+147,1074,2021-02-24,Transferência,Reajuste anual,+3%
+148,1012,2022-12-14,Reajuste,Promoção por mérito,+3%
+149,1141,2020-10-31,Reajuste,Mudança de área,+12%
+150,1024,2021-06-29,Reajuste,Reajuste anual,+12%
+151,1114,2023-02-02,Transferência,Mudança de área,+6%
+152,1081,2023-04-10,Transferência,Mudança de área,+6%
+153,1009,2020-01-22,Promoção,Promoção por mérito,+3%
+154,1049,2023-08-03,Transferência,Reajuste anual,+12%
+155,1141,2021-01-25,Transferência,Reajuste anual,+10%
+156,1014,2021-09-08,Reajuste,Mudança de área,+12%
+157,1015,2020-05-28,Promoção,Promoção por mérito,+6%
+158,1001,2023-07-19,Promoção,Promoção por mérito,+12%
+159,1029,2020-10-25,Promoção,Promoção por mérito,+6%
+160,1081,2020-06-20,Reajuste,Mudança de área,+3%
+161,1030,2020-02-16,Promoção,Mudança de área,+10%
+162,1076,2021-09-17,Promoção,Reajuste anual,+3%
+163,1147,2020-07-25,Reajuste,Promoção por mérito,+3%
+164,1113,2021-03-28,Promoção,Mudança de área,+10%
+165,1034,2023-11-19,Transferência,Promoção por mérito,+10%
+166,1022,2022-07-13,Transferência,Mudança de área,+10%
+167,1105,2022-01-23,Transferência,Reajuste anual,+6%
+168,1096,2023-08-17,Transferência,Promoção por mérito,+3%
+169,1114,2021-12-08,Transferência,Mudança de área,+6%
+170,1099,2022-10-05,Transferência,Promoção por mérito,+10%
+171,1054,2021-11-06,Transferência,Mudança de área,+6%
+172,1007,2023-04-14,Transferência,Mudança de área,+10%
+173,1058,2022-05-04,Transferência,Mudança de área,+12%
+174,1127,2022-02-21,Reajuste,Promoção por mérito,+10%
+175,1031,2023-02-07,Reajuste,Mudança de área,+3%
+176,1092,2021-11-14,Transferência,Reajuste anual,+3%
+177,1006,2022-08-20,Reajuste,Promoção por mérito,+3%
+178,1001,2022-05-13,Reajuste,Reajuste anual,+6%
+179,1084,2023-05-10,Transferência,Reajuste anual,+3%
+180,1133,2020-06-16,Transferência,Promoção por mérito,+10%
+181,1105,2020-03-26,Reajuste,Mudança de área,+12%
+182,1035,2022-04-28,Transferência,Reajuste anual,+3%
+183,1044,2022-12-10,Transferência,Promoção por mérito,+6%
+184,1041,2023-02-09,Transferência,Mudança de área,+12%
+185,1052,2024-01-26,Transferência,Promoção por mérito,+3%
+186,1109,2021-03-17,Reajuste,Promoção por mérito,+3%
+187,1008,2020-09-27,Promoção,Promoção por mérito,+12%
+188,1086,2020-12-09,Reajuste,Mudança de área,+3%
+189,1113,2023-04-21,Promoção,Reajuste anual,+6%
+190,1074,2021-05-17,Promoção,Reajuste anual,+10%
+191,1129,2022-10-30,Promoção,Promoção por mérito,+10%
+192,1010,2021-05-08,Reajuste,Promoção por mérito,+12%
+193,1049,2023-06-11,Reajuste,Mudança de área,+10%
+194,1121,2023-08-14,Reajuste,Promoção por mérito,+3%
+195,1142,2020-08-31,Reajuste,Promoção por mérito,+3%
+196,1074,2023-10-06,Reajuste,Promoção por mérito,+6%
+197,1030,2020-09-23,Promoção,Reajuste anual,+10%
+198,1091,2022-06-11,Reajuste,Promoção por mérito,+12%
+199,1091,2020-07-19,Promoção,Reajuste anual,+3%
+200,1074,2020-08-26,Reajuste,Mudança de área,+12%
+201,1091,2023-09-19,Reajuste,Mudança de área,+3%
+202,1128,2022-07-03,Transferência,Reajuste anual,+3%
+203,1041,2023-12-09,Promoção,Reajuste anual,+6%
+204,1109,2022-08-26,Reajuste,Reajuste anual,+10%
+205,1017,2021-04-28,Reajuste,Reajuste anual,+6%
+206,1076,2023-12-31,Reajuste,Promoção por mérito,+10%
+207,1132,2020-09-02,Transferência,Reajuste anual,+12%
+208,1019,2022-10-28,Promoção,Reajuste anual,+10%
+209,1126,2020-05-31,Reajuste,Reajuste anual,+12%
+210,1074,2023-11-16,Reajuste,Promoção por mérito,+3%
+211,1061,2020-07-29,Reajuste,Promoção por mérito,+12%
+212,1031,2021-01-01,Transferência,Promoção por mérito,+12%
+213,1027,2022-08-01,Reajuste,Mudança de área,+3%
+214,1073,2020-03-26,Promoção,Promoção por mérito,+12%
+215,1080,2022-12-14,Promoção,Reajuste anual,+12%
+216,1021,2021-03-21,Promoção,Promoção por mérito,+3%
+217,1095,2021-09-11,Promoção,Promoção por mérito,+3%
+218,1121,2020-10-30,Reajuste,Reajuste anual,+3%
+219,1122,2020-05-11,Transferência,Promoção por mérito,+10%
+220,1051,2023-12-15,Transferência,Mudança de área,+3%
+221,1077,2022-06-22,Transferência,Promoção por mérito,+3%
+222,1069,2023-11-09,Reajuste,Mudança de área,+12%
+223,1136,2022-09-14,Transferência,Mudança de área,+6%
+224,1020,2023-05-06,Promoção,Mudança de área,+6%
+225,1063,2020-02-16,Reajuste,Reajuste anual,+10%
+226,1075,2022-01-26,Transferência,Promoção por mérito,+10%
+227,1060,2023-05-11,Promoção,Mudança de área,+6%
+228,1094,2023-07-08,Promoção,Mudança de área,+6%
+229,1039,2021-11-20,Reajuste,Promoção por mérito,+3%
+230,1003,2022-11-13,Reajuste,Reajuste anual,+12%
+231,1030,2021-11-17,Transferência,Reajuste anual,+3%
+232,1068,2022-02-24,Transferência,Mudança de área,+10%
+233,1069,2020-12-05,Transferência,Reajuste anual,+6%
+234,1004,2021-02-15,Reajuste,Promoção por mérito,+10%
+235,1114,2023-07-08,Transferência,Reajuste anual,+3%
+236,1090,2020-10-12,Transferência,Promoção por mérito,+10%
+237,1007,2023-01-14,Promoção,Mudança de área,+10%
+238,1008,2022-04-29,Promoção,Promoção por mérito,+12%
+239,1014,2021-03-05,Promoção,Mudança de área,+10%
+240,1104,2020-01-31,Transferência,Promoção por mérito,+3%
+241,1006,2021-08-25,Reajuste,Promoção por mérito,+12%
+242,1071,2021-03-15,Promoção,Reajuste anual,+10%
+243,1114,2022-09-11,Reajuste,Promoção por mérito,+3%
+244,1014,2023-10-04,Transferência,Mudança de área,+6%
+245,1082,2021-02-15,Transferência,Promoção por mérito,+12%
+246,1038,2021-06-11,Promoção,Mudança de área,+10%
+247,1133,2020-11-05,Reajuste,Mudança de área,+10%
+248,1056,2022-08-06,Promoção,Promoção por mérito,+12%
+249,1091,2023-11-20,Transferência,Reajuste anual,+3%
+250,1080,2023-09-23,Reajuste,Promoção por mérito,+10%
+251,1146,2021-11-04,Promoção,Promoção por mérito,+3%
+252,1126,2021-03-12,Transferência,Reajuste anual,+12%
+253,1074,2021-12-04,Promoção,Mudança de área,+10%
+254,1078,2021-10-24,Reajuste,Promoção por mérito,+6%
+255,1009,2020-12-30,Reajuste,Reajuste anual,+6%
+256,1106,2022-07-11,Reajuste,Reajuste anual,+6%
+257,1086,2020-04-22,Reajuste,Mudança de área,+12%
+258,1066,2020-06-24,Reajuste,Reajuste anual,+10%
+259,1061,2023-03-18,Promoção,Mudança de área,+12%
+260,1130,2023-04-16,Promoção,Promoção por mérito,+10%
+261,1145,2022-07-24,Promoção,Reajuste anual,+6%
+262,1106,2021-01-16,Promoção,Promoção por mérito,+6%
+263,1147,2023-05-31,Transferência,Reajuste anual,+3%
+264,1092,2023-07-06,Transferência,Reajuste anual,+12%
+265,1085,2023-04-27,Promoção,Promoção por mérito,+12%
+266,1120,2020-11-01,Transferência,Reajuste anual,+3%
+267,1078,2023-11-02,Transferência,Promoção por mérito,+6%
+268,1009,2021-08-24,Reajuste,Promoção por mérito,+6%
+269,1148,2020-12-08,Promoção,Mudança de área,+12%
+270,1028,2020-06-04,Transferência,Promoção por mérito,+10%
+271,1095,2021-12-12,Transferência,Mudança de área,+6%
+272,1009,2022-12-14,Promoção,Promoção por mérito,+3%
+273,1012,2024-01-05,Reajuste,Reajuste anual,+3%
+274,1046,2023-05-08,Promoção,Promoção por mérito,+3%
+275,1049,2021-02-06,Reajuste,Reajuste anual,+12%
+276,1131,2021-09-05,Transferência,Mudança de área,+12%
+277,1115,2022-03-07,Reajuste,Reajuste anual,+12%
+278,1112,2021-09-14,Reajuste,Promoção por mérito,+12%
+279,1084,2021-08-25,Promoção,Reajuste anual,+3%
+280,1052,2020-06-25,Transferência,Mudança de área,+3%
+281,1129,2021-03-24,Promoção,Reajuste anual,+12%
+282,1067,2022-01-12,Promoção,Reajuste anual,+12%
+283,1078,2020-10-27,Transferência,Promoção por mérito,+3%
+284,1056,2021-12-07,Promoção,Promoção por mérito,+12%
+285,1096,2020-11-02,Promoção,Reajuste anual,+12%
+286,1134,2022-01-20,Reajuste,Mudança de área,+12%
+287,1146,2022-05-18,Promoção,Reajuste anual,+12%
+288,1062,2023-07-14,Transferência,Mudança de área,+6%
+289,1064,2020-08-01,Promoção,Mudança de área,+12%
+290,1038,2021-04-27,Reajuste,Mudança de área,+3%
+291,1108,2023-07-09,Promoção,Reajuste anual,+3%
+292,1025,2022-12-26,Promoção,Mudança de área,+3%
+293,1011,2020-05-12,Promoção,Reajuste anual,+3%
+294,1149,2021-05-26,Reajuste,Mudança de área,+12%
+295,1076,2020-07-29,Transferência,Mudança de área,+6%
+296,1141,2022-09-14,Transferência,Reajuste anual,+10%
+297,1085,2022-09-13,Reajuste,Promoção por mérito,+10%
+298,1029,2021-12-17,Reajuste,Promoção por mérito,+10%
+299,1051,2020-09-09,Promoção,Reajuste anual,+10%
+300,1062,2020-02-07,Transferência,Reajuste anual,+3%
