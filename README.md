@@ -1,75 +1,48 @@
-# 📌 Análise de Dados com NumPy e Pandas
+# 📊 Estudos de Dados
 
-Este projeto tem como objetivo explorar conceitos fundamentais de **manipulação de dados** utilizando as bibliotecas **NumPy** e **Pandas**, além de gerar visualizações simples com **Matplotlib** e **Seaborn**.
+## 📌 Sobre o projeto
 
-Trata-se de um diário de estudos. Onde incluirei todas as etapas do meu aprendizado.
+Este repositório reúne estudos práticos em análise de dados, explorando diferentes conjuntos de dados e técnicas de tratamento, análise e visualização.
 
----
-
-## 🚀 Tecnologias Utilizadas
-- Python 3
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+O objetivo é consolidar conhecimentos em ciência de dados através de prática contínua.
 
 ---
 
-## 📂 Estrutura do Projeto
-```
-├── data/           # Arquivos de dados (CSV, Excel)
-├── notebooks/      # Jupyter Notebooks com exercícios e análises
-├── src/            # Código-fonte (funções auxiliares)
-├── README.md       # Documentação do projeto
-```
+## 🚀 Tecnologias utilizadas
+
+* Python
+* Pandas
+* Jupyter Notebook
+* SQL (em evolução)
 
 ---
 
-## 🔍 Objetivo
-- Aprender operações com arrays NumPy (criação, indexação, operações matemáticas).
-- Manipular DataFrames com Pandas (filtros, agregações, estatísticas).
-- Criar gráficos simples para análise exploratória.
+## 📊 O que foi desenvolvido
+
+* Limpeza e tratamento de dados
+* Análise exploratória (EDA)
+* Manipulação de datasets reais
+* Exercícios práticos com dados
 
 ---
 
-## 📊 Resultados Esperados
-- Consolidação dos conceitos básicos de análise de dados.
-- Geração de insights a partir de datasets simples.
-- Visualizações claras para apoiar decisões.
+## 📁 Estrutura do projeto
+
+* `landing/` → dados brutos
+* `scripts/` → notebooks e análises
 
 ---
 
-## ▶️ Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/analise-dados-numpy-pandas.git
-   ```
-2. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Abra o notebook:
-   ```bash
-   jupyter notebook notebooks/analise_numpy_pandas.ipynb
-   ```
+## 📈 Aprendizados
+
+Durante este projeto, foram desenvolvidas habilidades como:
+
+* Manipulação de dados com Pandas
+* Estruturação de análises
+* Organização de projetos de dados
 
 ---
 
-## 📈 Próximos Passos
-- Adicionar exercícios avançados com Pandas.
-- Integrar visualizações interativas com Plotly.
-- Criar pipeline simples para limpeza de dados.
+## 👩‍💻 Paula Rayane Lamounier Manoel
 
----
-
-## 🤝 Contribuição
-Contribuições são bem-vindas! Para sugerir melhorias:
-- Abra uma **issue**.
-- Envie um **pull request**.
-
----
-## 👩‍💻 Sobre Mim
-Sou Paula Rayane, Analista de Negócios Sênior e estudante de Engenharia de Dados e Inteligência Artificial, apaixonada por transformar dados em decisões estratégicas.
-
-## 📬 Contato
-🔗 LinkedIn: https://www.linkedin.com/in/paulalamounier/
+Paula Rayane Lamounier Manoel
