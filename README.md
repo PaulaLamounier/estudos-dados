@@ -43,6 +43,6 @@ Durante este projeto, foram desenvolvidas habilidades como:
 
 ---
 
-## 👩‍💻 Paula Rayane Lamounier Manoel
+## 👩‍💻 Autora
 
 Paula Rayane Lamounier Manoel
